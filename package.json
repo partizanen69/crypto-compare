@@ -1,0 +1,32 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "downshift": "^1.31.14",
+    "match-sorter": "^2.2.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-final-form": "^3.4.0",
+    "react-firebase": "^2.2.8",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "4.1.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "scripts": "^0.1.0",
+    "styled-components": "^3.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "stop": "taskkill -F -IM node.exe"
+  },
+  "devDependencies": {
+    "final-form": "^4.6.1",
+    "firebase": "^4.13.1"
+  }
+}
